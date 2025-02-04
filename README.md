@@ -33,18 +33,4 @@ Install Dependencies:
 Run the Application:
 (Instructions for running the app will be added once the stack is decided.)
 
-Contributing 🤝
-We welcome contributions from the community! If you'd like to contribute to Cosmo-Converter, please follow these steps:
 
-Fork the repository.
-
-Create a new branch for your feature or bugfix.
-
-Commit your changes and push to your fork.
-
-Submit a pull request with a detailed description of your changes.
-
-Please ensure your code follows our coding standards and includes appropriate tests.
-
-License 📜
-Cosmo-Converter is licensed under the MIT License. See the LICENSE file for more details.
